@@ -48,4 +48,4 @@ After running these commands, you can run the website.
 
 <p align = "center">
     <a href = "https://github.com/Rreuben/path_to_your_licence_file">LICENSE</a>
-</p>
+</p># blogr
